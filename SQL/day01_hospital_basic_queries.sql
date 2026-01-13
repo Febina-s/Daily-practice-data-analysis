@@ -1,0 +1,3 @@
+-- Dataset: Hospital Operations Data
+-- Tables: patients, treatments, doctors
+-- Purpose: Analyze patient admissions and treatment activity
